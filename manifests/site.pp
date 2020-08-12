@@ -1,4 +1,4 @@
-node fault {
+node default {
   file {'/root/README':
     ensure => file
   }
